@@ -130,6 +130,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IAction.cs" />
+    <Compile Include="IActionType.cs" />
+    <Compile Include="ICard.cs" />
+    <Compile Include="ICost.cs" />
+    <Compile Include="ICreatureStats.cs" />
+    <Compile Include="ICardType.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
